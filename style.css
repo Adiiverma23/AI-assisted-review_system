@@ -101,3 +101,27 @@ body {
   margin-top: 20px;
   font-weight: bold;
 }
+
+.dark-mode {
+  background-color: #121212;
+  color: white;
+}
+
+.dark-mode .card {
+  background-color: #1f2937;
+  color: white;
+  border: 1px solid #444;
+}
+
+.dark-mode .page {
+  background-color: #121212;
+  color: white;
+}
+
+.dark-mode .hero {
+  color: white;
+}
+
+.dark-mode footer {
+  background: black;
+}

@@ -8,3 +8,6 @@ function showPage(pageId) {
 
     document.getElementById(pageId).classList.add("active");
 }
+function toggleTheme() {
+    document.body.classList.toggle("dark-mode");
+}
